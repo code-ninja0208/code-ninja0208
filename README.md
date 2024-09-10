@@ -34,6 +34,8 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
           <br>HTML5
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
       <br>JavaScript
     </td>
@@ -53,6 +55,7 @@
         <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="mui" />
       <br>MUI
     </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -71,6 +74,7 @@
         <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
       <br>Angular
     </td>
+    <td colspan='3'></td>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -89,6 +93,7 @@
         <img src="https://skillicons.dev/icons?i=ember" width="48" height="48" alt="ember" />
       <br>Ember.js
     </td>
+    <td colspan='3'></td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -137,6 +142,7 @@
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="sass" />
       <br>Sass
     </td>
+    <td colspan='3'></td>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -155,6 +161,7 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
     </td>
+    <td colspan='3'></td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -173,6 +180,7 @@
         <img src="https://skillicons.dev/icons?i=bitbucket" width="48" height="48" alt="bitbucket" />
       <br>Bitbucket
     </td>
+    <td colspan='3'></td>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -199,6 +207,7 @@
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
       <br>Figma
     </td>
+    <td></td>
   </tr>
 </table>
 <br><br>
