@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-### 👋 Hello, Welcome to crazydev4u 
+### 👋 Hello, Welcome to code-ninja0208 
 
 <p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=crazydev4u&data=followers,repositories,stars,commits' />
+<img src='https://github-widgetbox.vercel.app/api/profile?username=code-ninja0208&data=followers,repositories,stars,commits' />
 </p>
 
 ### 🌱 Bio
@@ -17,11 +17,11 @@
 ### 🎙 Git Status
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{crazydev4u}/count.svg" alt="@crazydev4u :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{code-ninja0208}/count.svg" alt="@code-ninja0208 :: Visitor's Count" /></p>
 
 <p align="center">
-<a href="https://github.com/crazydev4u?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=crazydev4u&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@crazydev4u's github-readme-stats"/></a>
-<a href="https://github.com/KingKong0208?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=crazydev4u&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@KingKong0208's github-readme-streak-stats"/></a>
+<a href="https://github.com/code-ninja0208?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=code-ninja0208&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@code-ninja0208's github-readme-stats"/></a>
+<a href="https://github.com/KingKong0208?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=code-ninja0208&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@KingKong0208's github-readme-streak-stats"/></a>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/mudachyo/mudachyo/output/github-contribution-grid-snake.svg"></p>
