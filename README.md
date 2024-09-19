@@ -216,8 +216,8 @@
 ### Contact
  
 <a href="crazydev0208@gmail.com"><img src="https://img.shields.io/badge/Mail-%232E87FB?style=for-the-badge&logo=gmail&logoColor=white&color=C71610"/></a>
-<a href="http://t.me/"><img src="https://img.shields.io/badge/Telegram-%232E87FB?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://discordapp.com/users/"><img src="https://img.shields.io/badge/Discord-%232E87FB?style=for-the-badge&logo=Discord&logoColor=white&color=5865F2"/></a>
+<a href="http://t.me/CrazyTechLearner0208"><img src="https://img.shields.io/badge/Telegram-%232E87FB?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://discordapp.com/users/jerry_dev325_93534"><img src="https://img.shields.io/badge/Discord-%232E87FB?style=for-the-badge&logo=Discord&logoColor=white&color=5865F2"/></a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
