@@ -6,7 +6,7 @@
 
 <p align="center">   Building reliable data platforms, intelligent applications and scalable software systems. </p>
 
-<p align="center">   <a href="mailto:[contributor0208@hotmail.com](mailto:contributor0208@hotmail.com)">     <img src="https://img.shields.io/badge/Email-C71610?style=flat-square&logo=gmail&logoColor=white" />   </a>   <a href="https://t.me/TL1030_1004">     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />   </a>   <a href="https://discordapp.com/users/jerry_dev325_93534">     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />   </a>   <a href="https://github.com/code-ninja0208">     <img src="https://img.shields.io/github/followers/code-ninja0208?label=Follow&style=flat-square&logo=github" />   </a> </p>
+<p align="center">   <a href="mailto:[contributor0208@hotmail.com](mailto:contributor0208@hotmail.com)">     <img src="https://img.shields.io/badge/Email-contributor0208%40hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" />   </a>   <a href="https://www.linkedin.com/in/justin-cannady/">     <img src="https://img.shields.io/badge/LinkedIn-Justin%20Cannady-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />   </a>   <a href="https://t.me/TL1030_1004">     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />   </a>   <a href="https://discordapp.com/users/jerry_dev325_93534">     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />   </a>   <a href="https://github.com/code-ninja0208">     <img src="https://img.shields.io/github/followers/code-ninja0208?label=Follow&style=flat-square&logo=github" />   </a> </p>
 
 ---
 
@@ -34,7 +34,7 @@ My broader full-stack background helps me understand how data is consumed by rea
 
 ⛓️ Specialized Experience
    ├── Full-Stack Web Development
-   └── Backend & API Engineering
+   ├── Backend & API Engineering
    └── Web3 & Blockchain Development
 ```
 
@@ -199,7 +199,9 @@ I'm interested in opportunities and collaborations around:
 
 **Data Engineering • Data Platforms • AI Engineering • Backend Systems • Full-Stack Development • Web3**
 
-<p align="center">   <a href="mailto:[contributor0208@hotmail.com](mailto:contributor0208@hotmail.com)">     <img src="https://img.shields.io/badge/Email-contributor0208%40hotmail.com-C71610?style=for-the-badge&logo=gmail&logoColor=white" />   </a>
+<p align="center">   <a href="mailto:[contributor0208@hotmail.com](mailto:contributor0208@hotmail.com)">     <img src="https://img.shields.io/badge/Email-contributor0208%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />   </a>
+
+  <a href="https://www.linkedin.com/in/justin-cannady/">     <img src="https://img.shields.io/badge/LinkedIn-Justin%20Cannady-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />   </a>
 
   <a href="https://t.me/TL1030_1004">     <img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />   </a>
 
