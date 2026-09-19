@@ -1,224 +1,220 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+# 👋 Hi, I'm code-ninja0208
 
-### 👋 Hello, Welcome to code-ninja0208 
+### Senior Data Engineer | Full-Stack Web3 Engineer | Data + Distributed Systems
 
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=code-ninja0208&data=followers,repositories,stars,commits' />
-</p>
+I build **scalable data platforms, production-grade backend systems, and full-stack Web3 applications**.
 
-### 🌱 Bio
+My primary focus is **Data Engineering** — designing reliable pipelines, data platforms, distributed processing systems, and developer tooling. I also work across the **Web3 stack**, connecting blockchain infrastructure with modern backend and frontend applications.
 
-<div>
-<p>With a strong development background and a keen entrepreneurial spirit, leverage technical expertise to create digital solutions that transform and simplify complex processes.<br> My strategic vision, combined with my software development ability, allows me to analyze and carry out projects with precision and efficiency.<br> My commitment to quality and meeting deadlines, combined with ability to understand depth of customer expectations, makes me ideal for a role requiring autonomy, innovation and reliability</p>
-</div>
+---
 
-### 🎙 Git Status
+## 🚀 What I Build
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{code-ninja0208}/count.svg" alt="@code-ninja0208 :: Visitor's Count" /></p>
+### 📊 Senior Data Engineering
 
-<p align="center">
-<a href="https://github.com/code-ninja0208?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=code-ninja0208&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@code-ninja0208's github-readme-stats"/></a>
-<a href="https://github.com/KingKong0208?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=code-ninja0208&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@KingKong0208's github-readme-streak-stats"/></a>
-</p>
+* Scalable ETL / ELT pipelines
+* Data platforms and lakehouse architectures
+* Batch & real-time data processing
+* Data orchestration and workflow automation
+* Data quality, observability & monitoring
+* Analytics infrastructure
+* Distributed systems
+* API-driven data platforms
+* Cloud-native data architectures
 
-<p align="center"><img src="https://raw.githubusercontent.com/mudachyo/mudachyo/output/github-contribution-grid-snake.svg"></p>
- 
-### 💻 Technologies 
+### ⛓️ Full-Stack Web3 Engineering
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-          <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="mui" />
-      <br>MUI
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="next" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
-      <br>Angular
-    </td>
-    <td colspan='3'></td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
-      <br>Express.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nest" width="48" height="48" alt="nest" />
-      <br>NestJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ember" width="48" height="48" alt="ember" />
-      <br>Ember.js
-    </td>
-    <td colspan='3'></td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="django" />
-      <br>Django
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br>Go
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="rust" />
-      <br>Rust
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
-      <br>Solidity
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="graphql" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="sass" />
-      <br>Sass
-    </td>
-    <td colspan='3'></td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
-      <br>PostgreSQL
-    </td>    
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
-      <br>Prisma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
-      <br>MongoDB
-    </td>
-    <td colspan='3'></td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitlab" />
-      <br>GitLab
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bitbucket" width="48" height="48" alt="bitbucket" />
-      <br>Bitbucket
-    </td>
-    <td colspan='3'></td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="heroku" />
-      <br>Heroku
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" />
-      <br>Vercel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
-      <br>Figma
-    </td>
-    <td></td>
-  </tr>
-</table>
-<br><br>
-</div>
+* Decentralized applications (dApps)
+* Blockchain data pipelines
+* Smart-contract integrations
+* Wallet & Web3 authentication
+* Blockchain indexing
+* On-chain analytics
+* Web3 APIs
+* React / Next.js frontends
+* Node.js / Python backends
 
-### Contact
- 
-<a href="crazydev0208@gmail.com"><img src="https://img.shields.io/badge/Mail-%232E87FB?style=for-the-badge&logo=gmail&logoColor=white&color=C71610"/></a>
-<a href="http://t.me/CrazyTechLearner0208"><img src="https://img.shields.io/badge/Telegram-%232E87FB?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://discordapp.com/users/jerry_dev325_93534"><img src="https://img.shields.io/badge/Discord-%232E87FB?style=for-the-badge&logo=Discord&logoColor=white&color=5865F2"/></a>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+## 🧠 Engineering Stack
+
+### Data
+
+`Python` `SQL` `Apache Spark` `Kafka` `Airflow` `dbt`
+
+### Backend
+
+`Python` `Node.js` `TypeScript` `REST APIs` `GraphQL` `Microservices`
+
+### Frontend
+
+`React` `Next.js` `TypeScript` `JavaScript`
+
+### Web3
+
+`Solidity` `Ethereum` `EVM` `Smart Contracts` `Web3 APIs` `Blockchain Indexing`
+
+### Infrastructure
+
+`Docker` `Kubernetes` `CI/CD` `GitHub Actions` `Cloud` `Linux`
+
+### Data Platforms
+
+`Data Warehouse` `Data Lake` `Lakehouse` `Streaming` `Real-Time Analytics`
+
+---
+
+## 🔀 Engineering Workflow
+
+```text
+                    ┌─────────────────────┐
+                    │      Main Branch     │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+              ▼                ▼                ▼
+       Data Engineering      Web3             AI / Tools
+              │                │                │
+       ┌──────┴──────┐   ┌─────┴─────┐   ┌────┴─────┐
+       │             │   │           │   │          │
+     ETL/ELT      Streaming dApps   APIs  Agents   Analytics
+       │             │   │           │   │          │
+       └──────┬──────┘   └─────┬─────┘   └────┬─────┘
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                    ┌─────────────────────┐
+                    │ Production Systems  │
+                    └─────────────────────┘
+```
+
+---
+
+## 📈 GitHub Engineering Graph
+
+I like to think about development as a connected system:
+
+```text
+Issues
+  │
+  ▼
+Planning
+  │
+  ▼
+Feature Branch
+  │
+  ├──────────────► Data Pipeline
+  │
+  ├──────────────► Backend API
+  │
+  ├──────────────► Web3 Integration
+  │
+  └──────────────► UI / Dashboard
+                    │
+                    ▼
+              Tests + CI/CD
+                    │
+                    ▼
+                  Merge
+                    │
+                    ▼
+               Production
+                    │
+                    ▼
+             Monitoring
+                    │
+                    ▼
+              Improvements
+```
+
+---
+
+## 🛠️ Current Engineering Interests
+
+* Modern data architectures
+* Real-time data engineering
+* Distributed systems
+* Data-intensive applications
+* AI-assisted developer tooling
+* Blockchain data infrastructure
+* On-chain analytics
+* Web3 application architecture
+* Developer experience (DX)
+* Interactive engineering dashboards
+* Cloud-native infrastructure
+
+---
+
+## 🖥️ UI & Developer Tooling
+
+I'm particularly interested in turning complex engineering systems into useful interfaces:
+
+**Git →** repository and contribution graphs
+**Data →** interactive pipeline dashboards
+**Web3 →** transaction and wallet explorers
+**Infrastructure →** real-time observability dashboards
+**AI →** developer assistants and automation tools
+
+```text
+┌──────────────┐
+│ Git / GitHub │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ Data Layer   │
+└──────┬───────┘
+       │
+       ├──────────────┐
+       ▼              ▼
+┌──────────────┐ ┌──────────────┐
+│ Web3 / Chain │ │ AI / ML      │
+└──────┬───────┘ └──────┬───────┘
+       │                │
+       └────────┬───────┘
+                ▼
+       ┌─────────────────┐
+       │ Interactive UI  │
+       └─────────────────┘
+```
+
+---
+
+## 📂 Featured Projects
+
+> 🚧 Projects and repositories are continuously evolving.
+
+### 📊 Data Engineering
+
+Production-oriented pipelines, data processing systems, analytics infrastructure, and data-platform experiments.
+
+### ⛓️ Web3
+
+Full-stack blockchain applications, on-chain data systems, smart-contract integrations, and Web3 developer tools.
+
+### 🤖 AI + Data
+
+Experiments combining AI with data engineering, automation, analytics, and developer productivity.
+
+### 🧰 Developer Tools
+
+Interactive tools for visualizing Git activity, data pipelines, APIs, infrastructure, and blockchain systems.
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** [contributor0208@hotmail.com](mailto:contributor0208@hotmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/justin-cannady/
+
+💬 **Telegram:** @TL1030_1004
+
+---
+
+### ⚡ Engineering Philosophy
+
+> **Build systems that turn complex data into useful products.**
+
+**Data → Infrastructure → APIs → Applications → Users**
