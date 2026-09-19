@@ -199,14 +199,6 @@ I'm interested in opportunities and collaborations around:
 
 **Data Engineering • Data Platforms • AI Engineering • Backend Systems • Full-Stack Development • Web3**
 
-<p align="center">   <a href="mailto:[contributor0208@hotmail.com](mailto:contributor0208@hotmail.com)">     <img src="https://img.shields.io/badge/Email-contributor0208%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />   </a>
-
-  <a href="https://www.linkedin.com/in/justin-cannady/">     <img src="https://img.shields.io/badge/LinkedIn-Justin%20Cannady-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />   </a>
-
-  <a href="https://t.me/TL1030_1004">     <img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />   </a>
-
-  <a href="https://github.com/code-ninja0208">     <img src="https://img.shields.io/badge/GitHub-code--ninja0208-181717?style=for-the-badge&logo=github&logoColor=white" />   </a> </p>
-
 <p align="center">   <strong>Turning raw data into reliable systems and useful products. 🚀</strong> </p>
 
 <p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:2563EB&height=100&section=footer" /> </p>
